@@ -1,6 +1,6 @@
 ### 👋  About me 
 
-Hey, my name is Ewelina, I am Technical SEO Specialist, who finally decided make his dreams come truth and change my profession to Frontend Developer! I learned HTML5, CSS3, RWD, JavaScript and React. I created a few project, you can find them on my repository. I am sure this way is my way so I look forward to the opportunity to gain more experience as well as be a part of a dynamically growing and a diverse company. 
+Hey, my name is Ewelina, I am Technical SEO Specialist, who finally decided make his dreams come truth and change my profession to Frontend Developer! I learned HTML5, CSS3, RWD, JavaScript and React. I created a few projects, you can find them on my repository. I am sure this way is my way so I look forward to the opportunity to gain more experience as well as be a part of a dynamically growing and a diverse company. 
 
 I am a hard-working and dedicated employee, who learns fast in a dynamic and a changing environment. Moreover, the years of work in a SEO gave me a great understanding of different ideas of how to build and improve websites, which will add a great value and a fresh eye to the organization.
 
