@@ -1,6 +1,6 @@
 ### 👋  About me 
 
-Hey, my name is Ewelina, I am Junior Full Stack Developer (React & Ruby on Rails)! I was Technical SEO Specialist, who finally decided make dreams come truth and change my profession to Frontend Developer! I have learned HTML5, CSS3, RWD, JavaScript and React. I created a few projects, you can find them on my repository. I am sure this way is my way so I look forward to the opportunity to gain more experience as well as be a part of a dynamically growing and a diverse company. 
+Hey, my name is Ewelina. I am SEO Specialist and Junior Web Developer! I have learned HTML5, CSS3, RWD, JavaScript and React (2021-2022). I created a few projects, you can find them on my repository.
 
 I am a hard-working and dedicated employee, who learns fast in a dynamic and a changing environment. Moreover, the years of work in a SEO gave me a great understanding of different ideas of how to build and improve websites, which will add a great value and a fresh eye to the organization.
 
